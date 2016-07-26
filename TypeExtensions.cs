@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EPlatform.CRM.Business.Utils
+namespace TypeExtensions
 {
     public static class TypeExtensions
     {
